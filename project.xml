@@ -10,4 +10,7 @@
 	
 	<assets path="assets" />
 	
+	<customFileTypes>
+        <extension value=".act" class="Actbit" />
+    </customFileTypes>
 </project>

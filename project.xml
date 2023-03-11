@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="Actbit" package="net.flashcontent.actbit" version="1.0.0" company="FlashContent" />
+	<app main="Main" path="export" file="actbit" />
+	
+	<source path="source" />
+	
+	<haxelib name="openfl" />
+	
+	<assets path="assets" />
+	
+</project>

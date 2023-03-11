@@ -9,7 +9,7 @@ import openfl.Assets;
 import openfl.text.Font;
 import Type;
 
-
+// simple class here
 class Main extends Sprite {
 
     private var _inputField:TextField;
